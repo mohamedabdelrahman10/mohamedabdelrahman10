@@ -6,10 +6,10 @@
 
 
 
-> ### Language I have 👨🏻‍💻
-* #### C
-* #### C++
-* #### Python 
+##  👨🏻‍💻  Skills
+* C
+* C++
+*  Python 
 
 
 
@@ -19,6 +19,10 @@
 
 
 ### 📫 How to reach me: 
+[![Facebook](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/mohamed-abdelrahman-808952259/))
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 #### LinkedIn : https://www.linkedin.com/in/mohamed-abdelrahman-808952259/
 #### FaceBook : https://www.facebook.com/profile.php?id=100031755310262
 #### Gmail    : mohamedtechnolgy223@gmail.com
